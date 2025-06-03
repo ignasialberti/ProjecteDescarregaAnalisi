@@ -20,7 +20,7 @@ color_botons_actiu = "#005A9E"
 # 0.CONFIGURACIÓ BÀSICA CANVIO EL PROMPT D'AQUESTA FUNCIó
 # ====================
 
-DEEPSEEK_API_KEY = "sk-6de891359c904e3e9d282505450fcb62" 
+DEEPSEEK_API_KEY =  
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 prompt = """
