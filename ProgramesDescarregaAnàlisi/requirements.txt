@@ -1,0 +1,11 @@
+#moduls necessaris per executar el codi
+#pip install -r requirements.txt
+#les 2 primeres funcions son per fer la conversio de pdf a text i de text a pdf
+#la funcio 6A_FUNCIODEF es per l'anàlisis de les dades 
+pandas
+requests
+tqdm
+PyMuPDF
+playwright
+selenium
+openpyxl
